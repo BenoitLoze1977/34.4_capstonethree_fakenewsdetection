@@ -1,0 +1,12 @@
+Best Hyperparameters (logistic regression):
+C_log: 0.8662143796530829
+
+Performance Metrics (logistic regression):
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      6848
+           1       0.95      0.95      0.95      5431
+
+    accuracy                           0.96     12279
+   macro avg       0.96      0.96      0.96     12279
+weighted avg       0.96      0.96      0.96     12279

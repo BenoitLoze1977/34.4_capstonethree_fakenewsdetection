@@ -1,0 +1,18 @@
+Best Hyperparameters (random forest):
+bootstrap_val: 0.6940427677403537
+criterion_val: 0.36209424928230194
+max_depth: 122.37543851968115
+max_features_val: 0.8033971429329204
+min_samples_leaf: 1.7230892584472277
+min_samples_split: 16.718529743887633
+n_estimators: 673.6636487772938
+
+Performance Metrics (random forest):
+              precision    recall  f1-score   support
+
+           0       0.91      0.95      0.93      6848
+           1       0.94      0.89      0.91      5431
+
+    accuracy                           0.92     12279
+   macro avg       0.93      0.92      0.92     12279
+weighted avg       0.92      0.92      0.92     12279
